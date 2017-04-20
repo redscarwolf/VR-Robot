@@ -15,15 +15,13 @@ using IBM.Watson.DeveloperCloud.Services.ToneAnalyzer.v3;
 public class StateController : Widget {
 
 	[SerializeField]
-    private Animator animator;
-
-	[SerializeField]
 	private Input m_SpeechInput = new Input("SpeechInput", typeof(SpeechToTextData), "OnSpeechInput");
 
 	[SerializeField]
 	private float emotionThreshold = 0.5f;
 
 	ToneAnalyzer m_ToneAnalyzer = new ToneAnalyzer();
+	private Animator animator;
     
 	#region InitAndLifecycle
 
