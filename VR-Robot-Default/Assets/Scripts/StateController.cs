@@ -22,10 +22,14 @@ public class StateController : Widget {
 
 	ToneAnalyzer m_ToneAnalyzer = new ToneAnalyzer();
 	private Animator animator;
-    
-	#region InitAndLifecycle
+    private int terrifiedTrigger = Animator.StringToHash("TERRIFIEDTRIGGER");
+    private int happyTrigger = Animator.StringToHash("HAPPYTRIGGER");
+    private int boredTrigger = Animator.StringToHash("BOREDTRIGGER");
+    private int sadTrigger = Animator.StringToHash("SADTRIGGER");
 
-	void Start()
+    #region InitAndLifecycle
+
+    void Start()
 	{
 		// auto connect with other widgets
 		base.Start();
@@ -56,7 +60,7 @@ public class StateController : Widget {
 					if (res.final && alt.confidence > 0)
 					{
 						string text = alt.transcript;
-						Debug.Log("Speech result: " + text + " Confidence: " + alt.confidence);
+						// Debug.Log("Speech result: " + text + " Confidence: " + alt.confidence);
 
 						// use recognized speech as input for ToneAnalyzer service
 						m_ToneAnalyzer.GetToneAnalyze(OnGetToneAnalyze, text, "TEST");
@@ -69,21 +73,50 @@ public class StateController : Widget {
 	// callback method after ToneAnalyzer has done its job
 	private void OnGetToneAnalyze(ToneAnalyzerResponse resp, string data)
 	{    
-		Debug.Log("ToneAnalyzer Response: " + resp + " - " + data);
+		// Debug.Log("ToneAnalyzer Response: " + resp + " - " + data);
 
 		// dismiss other categories for now
 		ToneCategory emotions = resp.document_tone.tone_categories.First (category => category.category_id == "emotion_tone");
 
 		// find strongest one of the five emotions
 		Tone maxEmotion = emotions.tones.OrderByDescending (tone => tone.score).FirstOrDefault ();
-		Debug.Log ("Strongest detected emotion: " + maxEmotion.tone_name + " Score: " + maxEmotion.score);
+		// Debug.Log ("Strongest detected emotion: " + maxEmotion.tone_name + " Score: " + maxEmotion.score);
 
 		// TODO: Adjust value so that it feels right
 		if (maxEmotion.score > emotionThreshold)
 		{
-			// TODO: Animate accordingly
-		}
+            triggerAnimation(maxEmotion.tone_name);
+            Debug.Log(">>>Emotion (" + maxEmotion.tone_name + "): " + maxEmotion.score);
+        }
+        else
+        {
+            Debug.Log("???Unshure Emotion (" + maxEmotion.tone_name + "): " + emotionThreshold + ">" + maxEmotion.score);
+        }
 	}
-		
-	#endregion
+
+    private void triggerAnimation(string tone_name)
+    {
+        switch (tone_name)
+        {
+            case "Joy":
+                animator.SetTrigger(happyTrigger);
+                break;
+            case "Sadness":
+                animator.SetTrigger(sadTrigger);
+                break;
+            case "Anger":
+                animator.SetTrigger(terrifiedTrigger);
+                break;
+            case "Disgust":
+                // TODO
+                break;
+            case "Fear":
+                // TODO
+                break;
+            default:
+                break;
+        }
+    }
+
+    #endregion
 }
