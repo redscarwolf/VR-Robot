@@ -1,0 +1,703 @@
+fileFormatVersion: 2
+guid: a2951bcc5e8653b459846fa060fbc2d2
+timeCreated: 1493132977
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: body
+    100002: Joint
+    100004: Joint_1
+    100006: Joint_10
+    100008: Joint_1_2
+    100010: Joint_1_3
+    100012: Joint_1_4
+    100014: Joint_2
+    100016: Joint_2_2
+    100018: Joint_2_3
+    100020: Joint_2_4
+    100022: Joint_2_5
+    100024: Joint_2_6
+    100026: Joint_3
+    100028: Joint_3_2
+    100030: Joint_3_3
+    100032: Joint_3_4
+    100034: Joint_3_5
+    100036: Joint_3_6
+    100038: Joint_4
+    100040: Joint_4_2
+    100042: Joint_4_3
+    100044: Joint_4_4
+    100046: Joint_4_5
+    100048: Joint_4_6
+    100050: Joint_5
+    100052: Joint_5_2
+    100054: Joint_5_3
+    100056: Joint_5_4
+    100058: Joint_6
+    100060: Joint_6_2
+    100062: Joint_7
+    100064: Joint_8
+    100066: Joint_9
+    100068: linke_flosse
+    100070: Manta
+    100072: //RootNode
+    100074: rechte_flosse
+    100076: vorne_links
+    100078: vorne_rechts
+    400000: body
+    400002: Joint
+    400004: Joint_1
+    400006: Joint_10
+    400008: Joint_1_2
+    400010: Joint_1_3
+    400012: Joint_1_4
+    400014: Joint_2
+    400016: Joint_2_2
+    400018: Joint_2_3
+    400020: Joint_2_4
+    400022: Joint_2_5
+    400024: Joint_2_6
+    400026: Joint_3
+    400028: Joint_3_2
+    400030: Joint_3_3
+    400032: Joint_3_4
+    400034: Joint_3_5
+    400036: Joint_3_6
+    400038: Joint_4
+    400040: Joint_4_2
+    400042: Joint_4_3
+    400044: Joint_4_4
+    400046: Joint_4_5
+    400048: Joint_4_6
+    400050: Joint_5
+    400052: Joint_5_2
+    400054: Joint_5_3
+    400056: Joint_5_4
+    400058: Joint_6
+    400060: Joint_6_2
+    400062: Joint_7
+    400064: Joint_8
+    400066: Joint_9
+    400068: linke_flosse
+    400070: Manta
+    400072: //RootNode
+    400074: rechte_flosse
+    400076: vorne_links
+    400078: vorne_rechts
+    4300000: Manta
+    7400000: idle
+    7400002: sad
+    7400004: happy
+    7400006: terrified
+    7400008: bored
+    9500000: //RootNode
+    13700000: Manta
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle
+      takeName: CINEMA_4D_Basis
+      firstFrame: 54
+      lastFrame: 145
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Joint
+        weight: 1
+      - path: Joint/Joint_1
+        weight: 1
+      - path: Joint/Joint_1/Joint_2
+        weight: 1
+      - path: Joint/Joint_1/Joint_2/Joint_3
+        weight: 1
+      - path: Joint/Joint_1/Joint_2/Joint_3/Joint_4
+        weight: 1
+      - path: Joint/Joint_1/Joint_2/Joint_3/Joint_4/Joint_5
+        weight: 1
+      - path: Manta
+        weight: 1
+      - path: Manta/body
+        weight: 1
+      - path: Manta/body/Joint_2_4
+        weight: 1
+      - path: Manta/body/Joint_2_4/Joint_3_4
+        weight: 1
+      - path: Manta/body/Joint_2_4/Joint_3_4/Joint_4_4
+        weight: 1
+      - path: Manta/body/Joint_2_4/Joint_3_4/Joint_4_4/Joint_5_4
+        weight: 1
+      - path: Manta/body/Joint_2_4/Joint_3_4/Joint_4_4/Joint_5_4/Joint_6_2
+        weight: 1
+      - path: Manta/body/Joint_2_4/Joint_3_4/Joint_4_4/Joint_5_4/Joint_6_2/Joint_7
+        weight: 1
+      - path: Manta/body/Joint_2_4/Joint_3_4/Joint_4_4/Joint_5_4/Joint_6_2/Joint_7/Joint_8
+        weight: 1
+      - path: Manta/body/Joint_2_4/Joint_3_4/Joint_4_4/Joint_5_4/Joint_6_2/Joint_7/Joint_8/Joint_9
+        weight: 1
+      - path: Manta/body/Joint_2_4/Joint_3_4/Joint_4_4/Joint_5_4/Joint_6_2/Joint_7/Joint_8/Joint_9/Joint_10
+        weight: 1
+      - path: Manta/linke_flosse
+        weight: 1
+      - path: Manta/linke_flosse/Joint_1_3
+        weight: 1
+      - path: Manta/linke_flosse/Joint_1_3/Joint_2_5
+        weight: 1
+      - path: Manta/linke_flosse/Joint_1_3/Joint_2_5/Joint_3_5
+        weight: 1
+      - path: Manta/linke_flosse/Joint_1_3/Joint_2_5/Joint_3_5/Joint_4_5
+        weight: 1
+      - path: Manta/rechte_flosse
+        weight: 1
+      - path: Manta/rechte_flosse/Joint_1_4
+        weight: 1
+      - path: Manta/rechte_flosse/Joint_1_4/Joint_2_6
+        weight: 1
+      - path: Manta/rechte_flosse/Joint_1_4/Joint_2_6/Joint_3_6
+        weight: 1
+      - path: Manta/rechte_flosse/Joint_1_4/Joint_2_6/Joint_3_6/Joint_4_6
+        weight: 1
+      - path: Manta/vorne_links
+        weight: 1
+      - path: Manta/vorne_links/Joint_1_2
+        weight: 1
+      - path: Manta/vorne_links/Joint_1_2/Joint_2_3
+        weight: 1
+      - path: Manta/vorne_links/Joint_1_2/Joint_2_3/Joint_3_3
+        weight: 1
+      - path: Manta/vorne_links/Joint_1_2/Joint_2_3/Joint_3_3/Joint_4_3
+        weight: 1
+      - path: Manta/vorne_links/Joint_1_2/Joint_2_3/Joint_3_3/Joint_4_3/Joint_5_3
+        weight: 1
+      - path: Manta/vorne_rechts
+        weight: 1
+      - path: Manta/vorne_rechts/Joint_2_2
+        weight: 1
+      - path: Manta/vorne_rechts/Joint_2_2/Joint_3_2
+        weight: 1
+      - path: Manta/vorne_rechts/Joint_2_2/Joint_3_2/Joint_4_2
+        weight: 1
+      - path: Manta/vorne_rechts/Joint_2_2/Joint_3_2/Joint_4_2/Joint_5_2
+        weight: 1
+      - path: Manta/vorne_rechts/Joint_2_2/Joint_3_2/Joint_4_2/Joint_5_2/Joint_6
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: sad
+      takeName: CINEMA_4D_Basis
+      firstFrame: 294
+      lastFrame: 562
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Joint
+        weight: 1
+      - path: Joint/Joint_1
+        weight: 1
+      - path: Joint/Joint_1/Joint_2
+        weight: 1
+      - path: Joint/Joint_1/Joint_2/Joint_3
+        weight: 1
+      - path: Joint/Joint_1/Joint_2/Joint_3/Joint_4
+        weight: 1
+      - path: Joint/Joint_1/Joint_2/Joint_3/Joint_4/Joint_5
+        weight: 1
+      - path: Manta
+        weight: 1
+      - path: Manta/body
+        weight: 1
+      - path: Manta/body/Joint_2_4
+        weight: 1
+      - path: Manta/body/Joint_2_4/Joint_3_4
+        weight: 1
+      - path: Manta/body/Joint_2_4/Joint_3_4/Joint_4_4
+        weight: 1
+      - path: Manta/body/Joint_2_4/Joint_3_4/Joint_4_4/Joint_5_4
+        weight: 1
+      - path: Manta/body/Joint_2_4/Joint_3_4/Joint_4_4/Joint_5_4/Joint_6_2
+        weight: 1
+      - path: Manta/body/Joint_2_4/Joint_3_4/Joint_4_4/Joint_5_4/Joint_6_2/Joint_7
+        weight: 1
+      - path: Manta/body/Joint_2_4/Joint_3_4/Joint_4_4/Joint_5_4/Joint_6_2/Joint_7/Joint_8
+        weight: 1
+      - path: Manta/body/Joint_2_4/Joint_3_4/Joint_4_4/Joint_5_4/Joint_6_2/Joint_7/Joint_8/Joint_9
+        weight: 1
+      - path: Manta/body/Joint_2_4/Joint_3_4/Joint_4_4/Joint_5_4/Joint_6_2/Joint_7/Joint_8/Joint_9/Joint_10
+        weight: 1
+      - path: Manta/linke_flosse
+        weight: 1
+      - path: Manta/linke_flosse/Joint_1_3
+        weight: 1
+      - path: Manta/linke_flosse/Joint_1_3/Joint_2_5
+        weight: 1
+      - path: Manta/linke_flosse/Joint_1_3/Joint_2_5/Joint_3_5
+        weight: 1
+      - path: Manta/linke_flosse/Joint_1_3/Joint_2_5/Joint_3_5/Joint_4_5
+        weight: 1
+      - path: Manta/rechte_flosse
+        weight: 1
+      - path: Manta/rechte_flosse/Joint_1_4
+        weight: 1
+      - path: Manta/rechte_flosse/Joint_1_4/Joint_2_6
+        weight: 1
+      - path: Manta/rechte_flosse/Joint_1_4/Joint_2_6/Joint_3_6
+        weight: 1
+      - path: Manta/rechte_flosse/Joint_1_4/Joint_2_6/Joint_3_6/Joint_4_6
+        weight: 1
+      - path: Manta/vorne_links
+        weight: 1
+      - path: Manta/vorne_links/Joint_1_2
+        weight: 1
+      - path: Manta/vorne_links/Joint_1_2/Joint_2_3
+        weight: 1
+      - path: Manta/vorne_links/Joint_1_2/Joint_2_3/Joint_3_3
+        weight: 1
+      - path: Manta/vorne_links/Joint_1_2/Joint_2_3/Joint_3_3/Joint_4_3
+        weight: 1
+      - path: Manta/vorne_links/Joint_1_2/Joint_2_3/Joint_3_3/Joint_4_3/Joint_5_3
+        weight: 1
+      - path: Manta/vorne_rechts
+        weight: 1
+      - path: Manta/vorne_rechts/Joint_2_2
+        weight: 1
+      - path: Manta/vorne_rechts/Joint_2_2/Joint_3_2
+        weight: 1
+      - path: Manta/vorne_rechts/Joint_2_2/Joint_3_2/Joint_4_2
+        weight: 1
+      - path: Manta/vorne_rechts/Joint_2_2/Joint_3_2/Joint_4_2/Joint_5_2
+        weight: 1
+      - path: Manta/vorne_rechts/Joint_2_2/Joint_3_2/Joint_4_2/Joint_5_2/Joint_6
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: happy
+      takeName: CINEMA_4D_Basis
+      firstFrame: 589
+      lastFrame: 656
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Joint
+        weight: 1
+      - path: Joint/Joint_1
+        weight: 1
+      - path: Joint/Joint_1/Joint_2
+        weight: 1
+      - path: Joint/Joint_1/Joint_2/Joint_3
+        weight: 1
+      - path: Joint/Joint_1/Joint_2/Joint_3/Joint_4
+        weight: 1
+      - path: Joint/Joint_1/Joint_2/Joint_3/Joint_4/Joint_5
+        weight: 1
+      - path: Manta
+        weight: 1
+      - path: Manta/body
+        weight: 1
+      - path: Manta/body/Joint_2_4
+        weight: 1
+      - path: Manta/body/Joint_2_4/Joint_3_4
+        weight: 1
+      - path: Manta/body/Joint_2_4/Joint_3_4/Joint_4_4
+        weight: 1
+      - path: Manta/body/Joint_2_4/Joint_3_4/Joint_4_4/Joint_5_4
+        weight: 1
+      - path: Manta/body/Joint_2_4/Joint_3_4/Joint_4_4/Joint_5_4/Joint_6_2
+        weight: 1
+      - path: Manta/body/Joint_2_4/Joint_3_4/Joint_4_4/Joint_5_4/Joint_6_2/Joint_7
+        weight: 1
+      - path: Manta/body/Joint_2_4/Joint_3_4/Joint_4_4/Joint_5_4/Joint_6_2/Joint_7/Joint_8
+        weight: 1
+      - path: Manta/body/Joint_2_4/Joint_3_4/Joint_4_4/Joint_5_4/Joint_6_2/Joint_7/Joint_8/Joint_9
+        weight: 1
+      - path: Manta/body/Joint_2_4/Joint_3_4/Joint_4_4/Joint_5_4/Joint_6_2/Joint_7/Joint_8/Joint_9/Joint_10
+        weight: 1
+      - path: Manta/linke_flosse
+        weight: 1
+      - path: Manta/linke_flosse/Joint_1_3
+        weight: 1
+      - path: Manta/linke_flosse/Joint_1_3/Joint_2_5
+        weight: 1
+      - path: Manta/linke_flosse/Joint_1_3/Joint_2_5/Joint_3_5
+        weight: 1
+      - path: Manta/linke_flosse/Joint_1_3/Joint_2_5/Joint_3_5/Joint_4_5
+        weight: 1
+      - path: Manta/rechte_flosse
+        weight: 1
+      - path: Manta/rechte_flosse/Joint_1_4
+        weight: 1
+      - path: Manta/rechte_flosse/Joint_1_4/Joint_2_6
+        weight: 1
+      - path: Manta/rechte_flosse/Joint_1_4/Joint_2_6/Joint_3_6
+        weight: 1
+      - path: Manta/rechte_flosse/Joint_1_4/Joint_2_6/Joint_3_6/Joint_4_6
+        weight: 1
+      - path: Manta/vorne_links
+        weight: 1
+      - path: Manta/vorne_links/Joint_1_2
+        weight: 1
+      - path: Manta/vorne_links/Joint_1_2/Joint_2_3
+        weight: 1
+      - path: Manta/vorne_links/Joint_1_2/Joint_2_3/Joint_3_3
+        weight: 1
+      - path: Manta/vorne_links/Joint_1_2/Joint_2_3/Joint_3_3/Joint_4_3
+        weight: 1
+      - path: Manta/vorne_links/Joint_1_2/Joint_2_3/Joint_3_3/Joint_4_3/Joint_5_3
+        weight: 1
+      - path: Manta/vorne_rechts
+        weight: 1
+      - path: Manta/vorne_rechts/Joint_2_2
+        weight: 1
+      - path: Manta/vorne_rechts/Joint_2_2/Joint_3_2
+        weight: 1
+      - path: Manta/vorne_rechts/Joint_2_2/Joint_3_2/Joint_4_2
+        weight: 1
+      - path: Manta/vorne_rechts/Joint_2_2/Joint_3_2/Joint_4_2/Joint_5_2
+        weight: 1
+      - path: Manta/vorne_rechts/Joint_2_2/Joint_3_2/Joint_4_2/Joint_5_2/Joint_6
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: terrified
+      takeName: CINEMA_4D_Basis
+      firstFrame: 770
+      lastFrame: 872
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Joint
+        weight: 1
+      - path: Joint/Joint_1
+        weight: 1
+      - path: Joint/Joint_1/Joint_2
+        weight: 1
+      - path: Joint/Joint_1/Joint_2/Joint_3
+        weight: 1
+      - path: Joint/Joint_1/Joint_2/Joint_3/Joint_4
+        weight: 1
+      - path: Joint/Joint_1/Joint_2/Joint_3/Joint_4/Joint_5
+        weight: 1
+      - path: Manta
+        weight: 1
+      - path: Manta/body
+        weight: 1
+      - path: Manta/body/Joint_2_4
+        weight: 1
+      - path: Manta/body/Joint_2_4/Joint_3_4
+        weight: 1
+      - path: Manta/body/Joint_2_4/Joint_3_4/Joint_4_4
+        weight: 1
+      - path: Manta/body/Joint_2_4/Joint_3_4/Joint_4_4/Joint_5_4
+        weight: 1
+      - path: Manta/body/Joint_2_4/Joint_3_4/Joint_4_4/Joint_5_4/Joint_6_2
+        weight: 1
+      - path: Manta/body/Joint_2_4/Joint_3_4/Joint_4_4/Joint_5_4/Joint_6_2/Joint_7
+        weight: 1
+      - path: Manta/body/Joint_2_4/Joint_3_4/Joint_4_4/Joint_5_4/Joint_6_2/Joint_7/Joint_8
+        weight: 1
+      - path: Manta/body/Joint_2_4/Joint_3_4/Joint_4_4/Joint_5_4/Joint_6_2/Joint_7/Joint_8/Joint_9
+        weight: 1
+      - path: Manta/body/Joint_2_4/Joint_3_4/Joint_4_4/Joint_5_4/Joint_6_2/Joint_7/Joint_8/Joint_9/Joint_10
+        weight: 1
+      - path: Manta/linke_flosse
+        weight: 1
+      - path: Manta/linke_flosse/Joint_1_3
+        weight: 1
+      - path: Manta/linke_flosse/Joint_1_3/Joint_2_5
+        weight: 1
+      - path: Manta/linke_flosse/Joint_1_3/Joint_2_5/Joint_3_5
+        weight: 1
+      - path: Manta/linke_flosse/Joint_1_3/Joint_2_5/Joint_3_5/Joint_4_5
+        weight: 1
+      - path: Manta/rechte_flosse
+        weight: 1
+      - path: Manta/rechte_flosse/Joint_1_4
+        weight: 1
+      - path: Manta/rechte_flosse/Joint_1_4/Joint_2_6
+        weight: 1
+      - path: Manta/rechte_flosse/Joint_1_4/Joint_2_6/Joint_3_6
+        weight: 1
+      - path: Manta/rechte_flosse/Joint_1_4/Joint_2_6/Joint_3_6/Joint_4_6
+        weight: 1
+      - path: Manta/vorne_links
+        weight: 1
+      - path: Manta/vorne_links/Joint_1_2
+        weight: 1
+      - path: Manta/vorne_links/Joint_1_2/Joint_2_3
+        weight: 1
+      - path: Manta/vorne_links/Joint_1_2/Joint_2_3/Joint_3_3
+        weight: 1
+      - path: Manta/vorne_links/Joint_1_2/Joint_2_3/Joint_3_3/Joint_4_3
+        weight: 1
+      - path: Manta/vorne_links/Joint_1_2/Joint_2_3/Joint_3_3/Joint_4_3/Joint_5_3
+        weight: 1
+      - path: Manta/vorne_rechts
+        weight: 1
+      - path: Manta/vorne_rechts/Joint_2_2
+        weight: 1
+      - path: Manta/vorne_rechts/Joint_2_2/Joint_3_2
+        weight: 1
+      - path: Manta/vorne_rechts/Joint_2_2/Joint_3_2/Joint_4_2
+        weight: 1
+      - path: Manta/vorne_rechts/Joint_2_2/Joint_3_2/Joint_4_2/Joint_5_2
+        weight: 1
+      - path: Manta/vorne_rechts/Joint_2_2/Joint_3_2/Joint_4_2/Joint_5_2/Joint_6
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bored
+      takeName: CINEMA_4D_Basis
+      firstFrame: 725
+      lastFrame: 770
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Joint
+        weight: 1
+      - path: Joint/Joint_1
+        weight: 1
+      - path: Joint/Joint_1/Joint_2
+        weight: 1
+      - path: Joint/Joint_1/Joint_2/Joint_3
+        weight: 1
+      - path: Joint/Joint_1/Joint_2/Joint_3/Joint_4
+        weight: 1
+      - path: Joint/Joint_1/Joint_2/Joint_3/Joint_4/Joint_5
+        weight: 1
+      - path: Manta
+        weight: 1
+      - path: Manta/body
+        weight: 1
+      - path: Manta/body/Joint_2_4
+        weight: 1
+      - path: Manta/body/Joint_2_4/Joint_3_4
+        weight: 1
+      - path: Manta/body/Joint_2_4/Joint_3_4/Joint_4_4
+        weight: 1
+      - path: Manta/body/Joint_2_4/Joint_3_4/Joint_4_4/Joint_5_4
+        weight: 1
+      - path: Manta/body/Joint_2_4/Joint_3_4/Joint_4_4/Joint_5_4/Joint_6_2
+        weight: 1
+      - path: Manta/body/Joint_2_4/Joint_3_4/Joint_4_4/Joint_5_4/Joint_6_2/Joint_7
+        weight: 1
+      - path: Manta/body/Joint_2_4/Joint_3_4/Joint_4_4/Joint_5_4/Joint_6_2/Joint_7/Joint_8
+        weight: 1
+      - path: Manta/body/Joint_2_4/Joint_3_4/Joint_4_4/Joint_5_4/Joint_6_2/Joint_7/Joint_8/Joint_9
+        weight: 1
+      - path: Manta/body/Joint_2_4/Joint_3_4/Joint_4_4/Joint_5_4/Joint_6_2/Joint_7/Joint_8/Joint_9/Joint_10
+        weight: 1
+      - path: Manta/linke_flosse
+        weight: 1
+      - path: Manta/linke_flosse/Joint_1_3
+        weight: 1
+      - path: Manta/linke_flosse/Joint_1_3/Joint_2_5
+        weight: 1
+      - path: Manta/linke_flosse/Joint_1_3/Joint_2_5/Joint_3_5
+        weight: 1
+      - path: Manta/linke_flosse/Joint_1_3/Joint_2_5/Joint_3_5/Joint_4_5
+        weight: 1
+      - path: Manta/rechte_flosse
+        weight: 1
+      - path: Manta/rechte_flosse/Joint_1_4
+        weight: 1
+      - path: Manta/rechte_flosse/Joint_1_4/Joint_2_6
+        weight: 1
+      - path: Manta/rechte_flosse/Joint_1_4/Joint_2_6/Joint_3_6
+        weight: 1
+      - path: Manta/rechte_flosse/Joint_1_4/Joint_2_6/Joint_3_6/Joint_4_6
+        weight: 1
+      - path: Manta/vorne_links
+        weight: 1
+      - path: Manta/vorne_links/Joint_1_2
+        weight: 1
+      - path: Manta/vorne_links/Joint_1_2/Joint_2_3
+        weight: 1
+      - path: Manta/vorne_links/Joint_1_2/Joint_2_3/Joint_3_3
+        weight: 1
+      - path: Manta/vorne_links/Joint_1_2/Joint_2_3/Joint_3_3/Joint_4_3
+        weight: 1
+      - path: Manta/vorne_links/Joint_1_2/Joint_2_3/Joint_3_3/Joint_4_3/Joint_5_3
+        weight: 1
+      - path: Manta/vorne_rechts
+        weight: 1
+      - path: Manta/vorne_rechts/Joint_2_2
+        weight: 1
+      - path: Manta/vorne_rechts/Joint_2_2/Joint_3_2
+        weight: 1
+      - path: Manta/vorne_rechts/Joint_2_2/Joint_3_2/Joint_4_2
+        weight: 1
+      - path: Manta/vorne_rechts/Joint_2_2/Joint_3_2/Joint_4_2/Joint_5_2
+        weight: 1
+      - path: Manta/vorne_rechts/Joint_2_2/Joint_3_2/Joint_4_2/Joint_5_2/Joint_6
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

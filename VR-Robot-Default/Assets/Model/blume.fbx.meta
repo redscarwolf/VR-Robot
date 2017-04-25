@@ -1,0 +1,1031 @@
+fileFormatVersion: 2
+guid: 0b25419814daed34aac8e54459338a1c
+timeCreated: 1493132202
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: "bl\xFCten"
+    100004: CINEMA_4D_Editor
+    100006: "Deckfl\xE4che_1"
+    100008: "Deckfl\xE4che_2"
+    100010: Ebene
+    100012: Kamera
+    100014: Kapsel_0
+    100016: Kapsel_0_2
+    100018: Kapsel_1
+    100020: Kapsel_10
+    100022: Kapsel_10_2
+    100024: Kapsel_11
+    100026: Kapsel_11_2
+    100028: Kapsel_12
+    100030: Kapsel_12_2
+    100032: Kapsel_13
+    100034: Kapsel_14
+    100036: Kapsel_15
+    100038: Kapsel_16
+    100040: Kapsel_17
+    100042: Kapsel_18
+    100044: Kapsel_19
+    100046: Kapsel_1_2
+    100048: Kapsel_2
+    100050: Kapsel_2_2
+    100052: Kapsel_3
+    100054: Kapsel_3_2
+    100056: Kapsel_4
+    100058: Kapsel_4_2
+    100060: Kapsel_5
+    100062: Kapsel_5_2
+    100064: Kapsel_6
+    100066: Kapsel_6_2
+    100068: Kapsel_7
+    100070: Kapsel_7_2
+    100072: Kapsel_8
+    100074: Kapsel_8_2
+    100076: Kapsel_9
+    100078: Kapsel_9_2
+    100080: Klon
+    100082: Klon_1
+    100084: Kugel
+    100086: Kugel_1
+    100088: Lathe
+    100090: leaf
+    100092: Licht
+    100094: Licht_1
+    100096: Licht_2
+    100098: Null
+    100100: pot
+    100102: Scheibe
+    100104: Subdivision_Surface
+    100106: Sweep
+    100108: Symmetrie
+    100110: Zylinder
+    100112: Zylinder_2
+    400000: //RootNode
+    400002: "bl\xFCten"
+    400004: CINEMA_4D_Editor
+    400006: "Deckfl\xE4che_1"
+    400008: "Deckfl\xE4che_2"
+    400010: Ebene
+    400012: Kamera
+    400014: Kapsel_0
+    400016: Kapsel_0_2
+    400018: Kapsel_1
+    400020: Kapsel_10
+    400022: Kapsel_10_2
+    400024: Kapsel_11
+    400026: Kapsel_11_2
+    400028: Kapsel_12
+    400030: Kapsel_12_2
+    400032: Kapsel_13
+    400034: Kapsel_14
+    400036: Kapsel_15
+    400038: Kapsel_16
+    400040: Kapsel_17
+    400042: Kapsel_18
+    400044: Kapsel_19
+    400046: Kapsel_1_2
+    400048: Kapsel_2
+    400050: Kapsel_2_2
+    400052: Kapsel_3
+    400054: Kapsel_3_2
+    400056: Kapsel_4
+    400058: Kapsel_4_2
+    400060: Kapsel_5
+    400062: Kapsel_5_2
+    400064: Kapsel_6
+    400066: Kapsel_6_2
+    400068: Kapsel_7
+    400070: Kapsel_7_2
+    400072: Kapsel_8
+    400074: Kapsel_8_2
+    400076: Kapsel_9
+    400078: Kapsel_9_2
+    400080: Klon
+    400082: Klon_1
+    400084: Kugel
+    400086: Kugel_1
+    400088: Lathe
+    400090: leaf
+    400092: Licht
+    400094: Licht_1
+    400096: Licht_2
+    400098: Null
+    400100: pot
+    400102: Scheibe
+    400104: Subdivision_Surface
+    400106: Sweep
+    400108: Symmetrie
+    400110: Zylinder
+    400112: Zylinder_2
+    2300000: "Deckfl\xE4che_1"
+    2300002: "Deckfl\xE4che_2"
+    2300004: Ebene
+    2300006: Kapsel_0
+    2300008: Kapsel_0_2
+    2300010: Kapsel_1
+    2300012: Kapsel_10
+    2300014: Kapsel_10_2
+    2300016: Kapsel_11
+    2300018: Kapsel_11_2
+    2300020: Kapsel_12
+    2300022: Kapsel_12_2
+    2300024: Kapsel_13
+    2300026: Kapsel_14
+    2300028: Kapsel_15
+    2300030: Kapsel_16
+    2300032: Kapsel_17
+    2300034: Kapsel_18
+    2300036: Kapsel_19
+    2300038: Kapsel_1_2
+    2300040: Kapsel_2
+    2300042: Kapsel_2_2
+    2300044: Kapsel_3
+    2300046: Kapsel_3_2
+    2300048: Kapsel_4
+    2300050: Kapsel_4_2
+    2300052: Kapsel_5
+    2300054: Kapsel_5_2
+    2300056: Kapsel_6
+    2300058: Kapsel_6_2
+    2300060: Kapsel_7
+    2300062: Kapsel_7_2
+    2300064: Kapsel_8
+    2300066: Kapsel_8_2
+    2300068: Kapsel_9
+    2300070: Kapsel_9_2
+    2300072: Kugel
+    2300074: Kugel_1
+    2300076: Lathe
+    2300078: Scheibe
+    2300080: Sweep
+    2300082: Zylinder_2
+    3300000: "Deckfl\xE4che_1"
+    3300002: "Deckfl\xE4che_2"
+    3300004: Ebene
+    3300006: Kapsel_0
+    3300008: Kapsel_0_2
+    3300010: Kapsel_1
+    3300012: Kapsel_10
+    3300014: Kapsel_10_2
+    3300016: Kapsel_11
+    3300018: Kapsel_11_2
+    3300020: Kapsel_12
+    3300022: Kapsel_12_2
+    3300024: Kapsel_13
+    3300026: Kapsel_14
+    3300028: Kapsel_15
+    3300030: Kapsel_16
+    3300032: Kapsel_17
+    3300034: Kapsel_18
+    3300036: Kapsel_19
+    3300038: Kapsel_1_2
+    3300040: Kapsel_2
+    3300042: Kapsel_2_2
+    3300044: Kapsel_3
+    3300046: Kapsel_3_2
+    3300048: Kapsel_4
+    3300050: Kapsel_4_2
+    3300052: Kapsel_5
+    3300054: Kapsel_5_2
+    3300056: Kapsel_6
+    3300058: Kapsel_6_2
+    3300060: Kapsel_7
+    3300062: Kapsel_7_2
+    3300064: Kapsel_8
+    3300066: Kapsel_8_2
+    3300068: Kapsel_9
+    3300070: Kapsel_9_2
+    3300072: Kugel
+    3300074: Kugel_1
+    3300076: Lathe
+    3300078: Scheibe
+    3300080: Sweep
+    3300082: Zylinder_2
+    4300000: Scheibe
+    4300002: Zylinder_2
+    4300004: Lathe
+    4300006: Sweep
+    4300008: "Deckfl\xE4che_1"
+    4300010: "Deckfl\xE4che_2"
+    4300012: Kapsel_0
+    4300014: Kapsel_1
+    4300016: Kapsel_2
+    4300018: Kapsel_3
+    4300020: Kapsel_4
+    4300022: Kapsel_5
+    4300024: Kapsel_6
+    4300026: Kapsel_7
+    4300028: Kapsel_8
+    4300030: Kapsel_9
+    4300032: Kapsel_10
+    4300034: Kapsel_11
+    4300036: Kapsel_12
+    4300038: Kapsel_13
+    4300040: Kapsel_14
+    4300042: Kapsel_15
+    4300044: Kapsel_16
+    4300046: Kapsel_17
+    4300048: Kapsel_18
+    4300050: Kapsel_19
+    4300052: Kapsel_0_2
+    4300054: Kapsel_1_2
+    4300056: Kapsel_2_2
+    4300058: Kapsel_3_2
+    4300060: Kapsel_4_2
+    4300062: Kapsel_5_2
+    4300064: Kapsel_6_2
+    4300066: Kapsel_7_2
+    4300068: Kapsel_8_2
+    4300070: Kapsel_9_2
+    4300072: Kapsel_10_2
+    4300074: Kapsel_11_2
+    4300076: Kapsel_12_2
+    4300078: Ebene
+    4300080: Kugel_1
+    4300082: Kugel
+    7400000: Idle
+    7400002: bored
+    7400004: happy
+    7400006: sad
+    7400008: terrified
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: CINEMA_4D_Basis
+      firstFrame: 0
+      lastFrame: 125
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: "bl\xFCten"
+        weight: 1
+      - path: "bl\xFCten/Klon"
+        weight: 1
+      - path: "bl\xFCten/Klon/Kapsel_0_2"
+        weight: 1
+      - path: "bl\xFCten/Klon/Kapsel_1_2"
+        weight: 1
+      - path: "bl\xFCten/Klon/Kapsel_2_2"
+        weight: 1
+      - path: "bl\xFCten/Klon/Kapsel_3_2"
+        weight: 1
+      - path: "bl\xFCten/Klon/Kapsel_4_2"
+        weight: 1
+      - path: "bl\xFCten/Klon/Kapsel_5_2"
+        weight: 1
+      - path: "bl\xFCten/Klon/Kapsel_6_2"
+        weight: 1
+      - path: "bl\xFCten/Klon/Kapsel_7_2"
+        weight: 1
+      - path: "bl\xFCten/Klon/Kapsel_8_2"
+        weight: 1
+      - path: "bl\xFCten/Klon/Kapsel_9_2"
+        weight: 1
+      - path: "bl\xFCten/Klon/Kapsel_10_2"
+        weight: 1
+      - path: "bl\xFCten/Klon/Kapsel_11_2"
+        weight: 1
+      - path: "bl\xFCten/Klon/Kapsel_12_2"
+        weight: 1
+      - path: "bl\xFCten/Klon_1"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_0"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_1"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_2"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_3"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_4"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_5"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_6"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_7"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_8"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_9"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_10"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_11"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_12"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_13"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_14"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_15"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_16"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_17"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_18"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_19"
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: Kamera
+        weight: 1
+      - path: Licht
+        weight: 1
+      - path: Licht_1
+        weight: 1
+      - path: Licht_2
+        weight: 1
+      - path: pot
+        weight: 1
+      - path: pot/Lathe
+        weight: 1
+      - path: pot/Zylinder
+        weight: 1
+      - path: pot/Zylinder/Zylinder_2
+        weight: 1
+      - path: Scheibe
+        weight: 1
+      - path: Subdivision_Surface
+        weight: 1
+      - path: Subdivision_Surface/Kugel
+        weight: 1
+      - path: Sweep
+        weight: 1
+      - path: "Sweep/Deckfl\xE4che_1"
+        weight: 1
+      - path: "Sweep/Deckfl\xE4che_2"
+        weight: 1
+      - path: Symmetrie
+        weight: 1
+      - path: Symmetrie/Null
+        weight: 1
+      - path: Symmetrie/Null/Kugel_1
+        weight: 1
+      - path: Symmetrie/Null/leaf
+        weight: 1
+      - path: Symmetrie/Null/leaf/Ebene
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bored
+      takeName: CINEMA_4D_Basis
+      firstFrame: 125
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: "bl\xFCten"
+        weight: 1
+      - path: "bl\xFCten/Klon"
+        weight: 1
+      - path: "bl\xFCten/Klon/Kapsel_0_2"
+        weight: 1
+      - path: "bl\xFCten/Klon/Kapsel_1_2"
+        weight: 1
+      - path: "bl\xFCten/Klon/Kapsel_2_2"
+        weight: 1
+      - path: "bl\xFCten/Klon/Kapsel_3_2"
+        weight: 1
+      - path: "bl\xFCten/Klon/Kapsel_4_2"
+        weight: 1
+      - path: "bl\xFCten/Klon/Kapsel_5_2"
+        weight: 1
+      - path: "bl\xFCten/Klon/Kapsel_6_2"
+        weight: 1
+      - path: "bl\xFCten/Klon/Kapsel_7_2"
+        weight: 1
+      - path: "bl\xFCten/Klon/Kapsel_8_2"
+        weight: 1
+      - path: "bl\xFCten/Klon/Kapsel_9_2"
+        weight: 1
+      - path: "bl\xFCten/Klon/Kapsel_10_2"
+        weight: 1
+      - path: "bl\xFCten/Klon/Kapsel_11_2"
+        weight: 1
+      - path: "bl\xFCten/Klon/Kapsel_12_2"
+        weight: 1
+      - path: "bl\xFCten/Klon_1"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_0"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_1"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_2"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_3"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_4"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_5"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_6"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_7"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_8"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_9"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_10"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_11"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_12"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_13"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_14"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_15"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_16"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_17"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_18"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_19"
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: Kamera
+        weight: 1
+      - path: Licht
+        weight: 1
+      - path: Licht_1
+        weight: 1
+      - path: Licht_2
+        weight: 1
+      - path: pot
+        weight: 1
+      - path: pot/Lathe
+        weight: 1
+      - path: pot/Zylinder
+        weight: 1
+      - path: pot/Zylinder/Zylinder_2
+        weight: 1
+      - path: Scheibe
+        weight: 1
+      - path: Subdivision_Surface
+        weight: 1
+      - path: Subdivision_Surface/Kugel
+        weight: 1
+      - path: Sweep
+        weight: 1
+      - path: "Sweep/Deckfl\xE4che_1"
+        weight: 1
+      - path: "Sweep/Deckfl\xE4che_2"
+        weight: 1
+      - path: Symmetrie
+        weight: 1
+      - path: Symmetrie/Null
+        weight: 1
+      - path: Symmetrie/Null/Kugel_1
+        weight: 1
+      - path: Symmetrie/Null/leaf
+        weight: 1
+      - path: Symmetrie/Null/leaf/Ebene
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: happy
+      takeName: CINEMA_4D_Basis
+      firstFrame: 125
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: "bl\xFCten"
+        weight: 1
+      - path: "bl\xFCten/Klon"
+        weight: 1
+      - path: "bl\xFCten/Klon/Kapsel_0_2"
+        weight: 1
+      - path: "bl\xFCten/Klon/Kapsel_1_2"
+        weight: 1
+      - path: "bl\xFCten/Klon/Kapsel_2_2"
+        weight: 1
+      - path: "bl\xFCten/Klon/Kapsel_3_2"
+        weight: 1
+      - path: "bl\xFCten/Klon/Kapsel_4_2"
+        weight: 1
+      - path: "bl\xFCten/Klon/Kapsel_5_2"
+        weight: 1
+      - path: "bl\xFCten/Klon/Kapsel_6_2"
+        weight: 1
+      - path: "bl\xFCten/Klon/Kapsel_7_2"
+        weight: 1
+      - path: "bl\xFCten/Klon/Kapsel_8_2"
+        weight: 1
+      - path: "bl\xFCten/Klon/Kapsel_9_2"
+        weight: 1
+      - path: "bl\xFCten/Klon/Kapsel_10_2"
+        weight: 1
+      - path: "bl\xFCten/Klon/Kapsel_11_2"
+        weight: 1
+      - path: "bl\xFCten/Klon/Kapsel_12_2"
+        weight: 1
+      - path: "bl\xFCten/Klon_1"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_0"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_1"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_2"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_3"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_4"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_5"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_6"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_7"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_8"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_9"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_10"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_11"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_12"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_13"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_14"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_15"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_16"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_17"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_18"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_19"
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: Kamera
+        weight: 1
+      - path: Licht
+        weight: 1
+      - path: Licht_1
+        weight: 1
+      - path: Licht_2
+        weight: 1
+      - path: pot
+        weight: 1
+      - path: pot/Lathe
+        weight: 1
+      - path: pot/Zylinder
+        weight: 1
+      - path: pot/Zylinder/Zylinder_2
+        weight: 1
+      - path: Scheibe
+        weight: 1
+      - path: Subdivision_Surface
+        weight: 1
+      - path: Subdivision_Surface/Kugel
+        weight: 1
+      - path: Sweep
+        weight: 1
+      - path: "Sweep/Deckfl\xE4che_1"
+        weight: 1
+      - path: "Sweep/Deckfl\xE4che_2"
+        weight: 1
+      - path: Symmetrie
+        weight: 1
+      - path: Symmetrie/Null
+        weight: 1
+      - path: Symmetrie/Null/Kugel_1
+        weight: 1
+      - path: Symmetrie/Null/leaf
+        weight: 1
+      - path: Symmetrie/Null/leaf/Ebene
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: sad
+      takeName: CINEMA_4D_Basis
+      firstFrame: 475
+      lastFrame: 600
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: "bl\xFCten"
+        weight: 1
+      - path: "bl\xFCten/Klon"
+        weight: 1
+      - path: "bl\xFCten/Klon/Kapsel_0_2"
+        weight: 1
+      - path: "bl\xFCten/Klon/Kapsel_1_2"
+        weight: 1
+      - path: "bl\xFCten/Klon/Kapsel_2_2"
+        weight: 1
+      - path: "bl\xFCten/Klon/Kapsel_3_2"
+        weight: 1
+      - path: "bl\xFCten/Klon/Kapsel_4_2"
+        weight: 1
+      - path: "bl\xFCten/Klon/Kapsel_5_2"
+        weight: 1
+      - path: "bl\xFCten/Klon/Kapsel_6_2"
+        weight: 1
+      - path: "bl\xFCten/Klon/Kapsel_7_2"
+        weight: 1
+      - path: "bl\xFCten/Klon/Kapsel_8_2"
+        weight: 1
+      - path: "bl\xFCten/Klon/Kapsel_9_2"
+        weight: 1
+      - path: "bl\xFCten/Klon/Kapsel_10_2"
+        weight: 1
+      - path: "bl\xFCten/Klon/Kapsel_11_2"
+        weight: 1
+      - path: "bl\xFCten/Klon/Kapsel_12_2"
+        weight: 1
+      - path: "bl\xFCten/Klon_1"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_0"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_1"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_2"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_3"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_4"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_5"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_6"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_7"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_8"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_9"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_10"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_11"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_12"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_13"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_14"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_15"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_16"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_17"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_18"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_19"
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: Kamera
+        weight: 1
+      - path: Licht
+        weight: 1
+      - path: Licht_1
+        weight: 1
+      - path: Licht_2
+        weight: 1
+      - path: pot
+        weight: 1
+      - path: pot/Lathe
+        weight: 1
+      - path: pot/Zylinder
+        weight: 1
+      - path: pot/Zylinder/Zylinder_2
+        weight: 1
+      - path: Scheibe
+        weight: 1
+      - path: Subdivision_Surface
+        weight: 1
+      - path: Subdivision_Surface/Kugel
+        weight: 1
+      - path: Sweep
+        weight: 1
+      - path: "Sweep/Deckfl\xE4che_1"
+        weight: 1
+      - path: "Sweep/Deckfl\xE4che_2"
+        weight: 1
+      - path: Symmetrie
+        weight: 1
+      - path: Symmetrie/Null
+        weight: 1
+      - path: Symmetrie/Null/Kugel_1
+        weight: 1
+      - path: Symmetrie/Null/leaf
+        weight: 1
+      - path: Symmetrie/Null/leaf/Ebene
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: terrified
+      takeName: CINEMA_4D_Basis
+      firstFrame: 600
+      lastFrame: 775
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: "bl\xFCten"
+        weight: 1
+      - path: "bl\xFCten/Klon"
+        weight: 1
+      - path: "bl\xFCten/Klon/Kapsel_0_2"
+        weight: 1
+      - path: "bl\xFCten/Klon/Kapsel_1_2"
+        weight: 1
+      - path: "bl\xFCten/Klon/Kapsel_2_2"
+        weight: 1
+      - path: "bl\xFCten/Klon/Kapsel_3_2"
+        weight: 1
+      - path: "bl\xFCten/Klon/Kapsel_4_2"
+        weight: 1
+      - path: "bl\xFCten/Klon/Kapsel_5_2"
+        weight: 1
+      - path: "bl\xFCten/Klon/Kapsel_6_2"
+        weight: 1
+      - path: "bl\xFCten/Klon/Kapsel_7_2"
+        weight: 1
+      - path: "bl\xFCten/Klon/Kapsel_8_2"
+        weight: 1
+      - path: "bl\xFCten/Klon/Kapsel_9_2"
+        weight: 1
+      - path: "bl\xFCten/Klon/Kapsel_10_2"
+        weight: 1
+      - path: "bl\xFCten/Klon/Kapsel_11_2"
+        weight: 1
+      - path: "bl\xFCten/Klon/Kapsel_12_2"
+        weight: 1
+      - path: "bl\xFCten/Klon_1"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_0"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_1"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_2"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_3"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_4"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_5"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_6"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_7"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_8"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_9"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_10"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_11"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_12"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_13"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_14"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_15"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_16"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_17"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_18"
+        weight: 1
+      - path: "bl\xFCten/Klon_1/Kapsel_19"
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: Kamera
+        weight: 1
+      - path: Licht
+        weight: 1
+      - path: Licht_1
+        weight: 1
+      - path: Licht_2
+        weight: 1
+      - path: pot
+        weight: 1
+      - path: pot/Lathe
+        weight: 1
+      - path: pot/Zylinder
+        weight: 1
+      - path: pot/Zylinder/Zylinder_2
+        weight: 1
+      - path: Scheibe
+        weight: 1
+      - path: Subdivision_Surface
+        weight: 1
+      - path: Subdivision_Surface/Kugel
+        weight: 1
+      - path: Sweep
+        weight: 1
+      - path: "Sweep/Deckfl\xE4che_1"
+        weight: 1
+      - path: "Sweep/Deckfl\xE4che_2"
+        weight: 1
+      - path: Symmetrie
+        weight: 1
+      - path: Symmetrie/Null
+        weight: 1
+      - path: Symmetrie/Null/Kugel_1
+        weight: 1
+      - path: Symmetrie/Null/leaf
+        weight: 1
+      - path: Symmetrie/Null/leaf/Ebene
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
