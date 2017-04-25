@@ -1,0 +1,105 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1b81)
+    Vendor:   NVIDIA
+    VRAM:     8145 MB
+    Driver:   20.19.15.4463
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\makieser\Desktop\VR-Robot\builds\performanceTest_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\makieser\Desktop\VR-Robot\builds\performanceTest_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\makieser\Desktop\VR-Robot\builds\performanceTest_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\makieser\Desktop\VR-Robot\builds\performanceTest_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\makieser\Desktop\VR-Robot\builds\performanceTest_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\makieser\Desktop\VR-Robot\builds\performanceTest_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\makieser\Desktop\VR-Robot\builds\performanceTest_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\makieser\Desktop\VR-Robot\builds\performanceTest_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\makieser\Desktop\VR-Robot\builds\performanceTest_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\makieser\Desktop\VR-Robot\builds\performanceTest_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\makieser\Desktop\VR-Robot\builds\performanceTest_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\makieser\Desktop\VR-Robot\builds\performanceTest_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\makieser\Desktop\VR-Robot\builds\performanceTest_Data\Managed\UnityEngine.VR.dll (this message is harmless)
+Loading C:\Users\makieser\Desktop\VR-Robot\builds\performanceTest_Data\Managed\UnityEngine.VR.dll into Unity Child Domain
+Platform assembly: C:\Users\makieser\Desktop\VR-Robot\builds\performanceTest_Data\Managed\HtmlAgilityPack.dll (this message is harmless)
+Loading C:\Users\makieser\Desktop\VR-Robot\builds\performanceTest_Data\Managed\HtmlAgilityPack.dll into Unity Child Domain
+Platform assembly: C:\Users\makieser\Desktop\VR-Robot\builds\performanceTest_Data\Managed\OSCsharp.dll (this message is harmless)
+Loading C:\Users\makieser\Desktop\VR-Robot\builds\performanceTest_Data\Managed\OSCsharp.dll into Unity Child Domain
+Platform assembly: C:\Users\makieser\Desktop\VR-Robot\builds\performanceTest_Data\Managed\TUIOsharp.dll (this message is harmless)
+Loading C:\Users\makieser\Desktop\VR-Robot\builds\performanceTest_Data\Managed\TUIOsharp.dll into Unity Child Domain
+- Completed reload, in  0.021 seconds
+Platform assembly: C:\Users\makieser\Desktop\VR-Robot\builds\performanceTest_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\makieser\Desktop\VR-Robot\builds\performanceTest_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 59Hz; virtual: 4880x1125 at -1280,-45
+<RI> Initialized touch support.
+OpenVR initialized!
+ 
+(Filename:  Line: 381)
+
+UnloadTime: 0.386299 ms
+Connected to lighthouse:LHR-C5906054
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[STATUS][Widget]: Auto-Connecting MicWidget (AudioData) -> SpeechToTextWidget.Audio (AudioData)
+[STATUS][Widget]: Auto-Connecting SpeechToTextWidget (SpeechToTextData) -> SpeechDisplayWidget.SpeechInput (SpeechToTextData)
+[STATUS][Widget]: Auto-Connecting SpeechToTextWidget (SpeechToTextData) -> DummyAnim.SpeechInput (SpeechToTextData)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2954 -> priority: 1 
+  Thread -> id: 2a4c -> priority: 1 
+[STATUS][SpeechToTextWidget]: Selecting Recognize Model: en-US_BroadbandModel 
+Platform assembly: C:\Users\makieser\Desktop\VR-Robot\builds\performanceTest_Data\Managed\Mono.Security.dll (this message is harmless)
+???Unshure Emotion (Anger): 0.5>0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+>>>Emotion (Sadness): 0.51072
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+>>>Emotion (Anger): 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+???Unshure Emotion (Joy): 0.5>0.258713
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+>>>Emotion (Sadness): 0.550021
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+>>>Emotion (Joy): 0.826511
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+>>>Emotion (Joy): 0.681317
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+???Unshure Emotion (Sadness): 0.5>0.489344
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+???Unshure Emotion (Anger): 0.5>0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+???Unshure Emotion (Sadness): 0.5>0.339338
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+???Unshure Emotion (Anger): 0.5>0.252356
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+>>>Emotion (Joy): 0.9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OpenVR Shutdown
+ 
+(Filename:  Line: 815)
+

@@ -19,12 +19,9 @@ public class Bored : MonoBehaviour {
     
     void Update()
     {
-        float thisTime = Time.time;
-        //wie IDLE animation unterbrechen?
-        if (thisTime - startTime >= waittime)
-        {
-            startTime = thisTime;
-            anim.SetTrigger("BOREDTRIGGER");
-        }
+		
     }
+
+
+
 }
